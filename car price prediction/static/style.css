@@ -1,0 +1,15 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.bg-dark{
+    background-color : #75767B;
+}
+
+
+.mt-50 {
+  margin-top: 50px !important;
+}
